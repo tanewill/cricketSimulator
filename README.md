@@ -9,7 +9,7 @@ Scripts for scraping [espncricinfo.com](http://www.espncricinfo.com/) and data o
 
 ### Data
 
-The scripts produce [final_output.csv](data/final_output.csv)
+The scripts produce final_output.csv
 
 ### Application
 * Article based on current scripts/data: [Fairly Random](https://github.com/dwillis/toss-up)
